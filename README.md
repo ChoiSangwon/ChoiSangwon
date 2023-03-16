@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=ChoiSangwon's&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=github&descSize=35&descAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=E9B3C8&text=ChoiSangwon's&fontAlignY=45&fontSize=40&fontColor=FFFFFF&height=150&animation=blinking&desc=github&descSize=35&descAlignY=70)
 
 
 ## 🧑🏻‍💻 Hi, there
