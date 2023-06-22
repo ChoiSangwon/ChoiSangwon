@@ -48,7 +48,7 @@
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=fdsa200)
 
  
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ChoiSangwon&theme=react)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ChoiSangwon&theme=react)
 
 <!--
 **ChoiSangwon/ChoiSangwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
