@@ -41,7 +41,6 @@
 - GDSC Soongsil 3기 core member (2023.10~)
 
 
-<br/>
 ## Career
 lg전자 BS사업본부 (2024.07 ~)
 
