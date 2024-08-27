@@ -42,7 +42,7 @@
 
 
 ## Career
-lg전자 BS사업본부 (2024.07 ~)
+LG Electronics  (2024.07 ~)
 
 
 -----
