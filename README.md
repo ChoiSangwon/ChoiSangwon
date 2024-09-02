@@ -38,7 +38,7 @@
 - GDSC Soongsil 2기 WEB/Moblie (2022.09 ~ 2022.09)
 - SSUMC 4기 SpingBoot
 - 네이버 부스트캠프 8기 웹모바일 챌린지 & 멤버십 (2023.07 ~ 2023.12)
-- GDSC Soongsil 3기 core member (2023.10~)
+- GDSC Soongsil 3기 core member (2023.10~2024.09)
 
 
 ## Career
