@@ -42,7 +42,7 @@
 
 
 ## Career
-LG Electronics  (2024.07 ~)
+LG Electronics, LG 전자 IT SW플랫폼Project 연구원  (2024.07 ~)
 
 
 -----
