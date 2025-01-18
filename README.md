@@ -42,7 +42,9 @@
 
 
 ## Career
-LG Electronics, LG 전자 IT SW플랫폼Project 연구원  (2024.07 ~)
+LG Electronics, LG 전자 IT SW플랫폼Project 연구원  (2024.07 ~ 2024.12)
+LG Electronics, LG 전자 데이터/클라우드 개발팀 연구원 (2025.01 ~ )
+
 
 
 -----
